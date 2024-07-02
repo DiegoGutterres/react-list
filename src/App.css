@@ -1,0 +1,13 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: slategrey;
+}
+
+
+.item{
+  font-family: monospace;
+  font-size: 28px;
+}
